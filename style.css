@@ -1,0 +1,47 @@
+.main{
+    display: inline;
+}
+
+
+.row1{
+    height: 200px;
+    width: 25%;
+    background-color: brown;
+    
+}
+.row2{
+    height: 200px;
+    width: 25%;
+    background-color: rgb(181, 157, 40);
+}
+.row3{
+    height: 200px;
+    width: 30%;
+    background-color: green;
+}
+.row4{
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+}
+.row5{
+    height: 200px;
+    width: 50%;
+    background-color: cadetblue;
+}
+.row6{
+    height: 200px;
+    width: 70%;
+    background-color: crimson;
+
+}
+.row7{
+    height: 200px;
+    width: 50px;
+    background-color: chocolate;
+}
+
+
+
+
+
